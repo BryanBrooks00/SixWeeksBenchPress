@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shrinkColumns="*"
+    android:stretchColumns="*"
+    android:background="@drawable/background"
+    tools:context=".Day2">
+
+        <TableRow
+            android:id="@+id/tableRow0"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginTop="60dp"
+            >
+
+            <TextView
+                android:id="@+id/number"
+                android:text="№"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/bench_press"
+                android:text="@string/bench_press"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/sets"
+                android:text="@string/sets"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/reps"
+                android:text="@string/reps"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+        </TableRow>
+
+        <!-- Row 3 with 3 columns -->
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <TextView
+                android:id="@+id/number1"
+                android:text="1"
+                android:layout_weight="1"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/weight1"
+                android:text="120"
+                android:layout_weight="1"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/set1"
+                android:text="3"
+                android:layout_weight="1"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/rep1"
+                android:text="5"
+                android:layout_weight="1"
+                android:padding="20dip"
+                android:gravity="center"/>
+
+        </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/number2"
+            android:text="2"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/weight2"
+            android:text="120"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/set2"
+            android:text="3"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/rep2"
+            android:text="5"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+    </TableRow>
+
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/number3"
+            android:text="3"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/weight3"
+            android:text="120"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/set3"
+            android:text="3"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/rep3"
+            android:text="5"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/number4"
+            android:text="4"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/weight4"
+            android:text="120"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/set4"
+            android:text="3"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/rep4"
+            android:text="5"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:id="@+id/number5"
+            android:text="5"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/weight5"
+            android:text="120"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/set5"
+            android:text="3"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/rep5"
+            android:text="5"
+            android:layout_weight="1"
+            android:padding="20dip"
+            android:gravity="center"/>
+    </TableRow>
+
+    <Button
+        android:id="@+id/btn_done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="150dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/red"
+        android:text="@string/done"
+        />
+
+    </TableLayout>

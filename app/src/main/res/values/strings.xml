@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Six Weeks Bench Press</string>
+    <string name="rm">1 RM</string>
+    <string name="back">Back</string>
+    <string name="done">Done!</string>
+    <string name="empty">Fill in the field</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="recommendation">The training program is designed for 6 weeks, for training twice a week. I also recommend doing dips with extra weight at the end of each workout.</string>
+    <string name="final_text">You completed 6 weeks bench press workout! You became stronger. But to become even stronger you must do it again and again. Now you can change your 1 RM and repeat it.</string>
+    <string name="start">Let\'s go!</string>
+    <string name="how">HOW TO USE IT?</string>
+    <string name="change_rm">Become stronger</string>
+    <string name="bench_press">Bench Press</string>
+    <string name="dips">Dips</string>
+    <string name="triceps">Triceps</string>
+    <string name="reps">Reps</string>
+    <string name="sets">Sets</string>
+    <string name="info">Warning! Before starting workout I recommend prepare your body using this 2-weeks workout:</string>
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+</resources>

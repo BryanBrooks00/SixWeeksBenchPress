@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/app_bar_main.xml" value="0.17119565217391305" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/content_main.xml" value="0.17119565217391305" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day1.xml" value="0.264" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day10.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day11.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day12.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day2.xml" value="0.2" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day3.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day4.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day5.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day6.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day7.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day8.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/day9.xml" value="0.15806159420289856" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/final_activity.xml" value="0.264" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/finish_activity.xml" value="0.2" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/fragment_gallery.xml" value="0.17119565217391305" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/fragment_home.xml" value="0.17119565217391305" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/fragment_slideshow.xml" value="0.17119565217391305" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/schedule_activity.xml" value="0.176" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/layout/workout_activity.xml" value="0.17119565217391305" />
+        <entry key="..\:/Dev/Android/SixWeeksBenchPress/app/src/main/res/menu/activity_main_drawer.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
